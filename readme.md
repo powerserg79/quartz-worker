@@ -1,6 +1,6 @@
 # Worker
 
-This application is a template to assist in creating a workers service that can schedule jobs. It uses quartz.net to manage the jobs.
+This application is a template to assist in creating a workers service that can schedule jobs. It uses [quartz.net](https://www.quartz-scheduler.net/) to manage the jobs.
 
 ## Run in Docker
 
